@@ -1,0 +1,109 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{geschk}{article}{}
+      \name{author}{2}{}{%
+        {{hash=018cd3595059d391bf47aadc814e9c90}{%
+           family={Gary\bibnamedelima Caldwell},
+           familyi={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Tom\bibnamedelimb F.\bibnamedelimi Magnera},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=d1400dbba27884b8b0dfa134beef8127}{%
+           family={Kebarle*},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{60acac520aeb553cc4e151ad1ae2542a}
+      \strng{fullhash}{60acac520aeb553cc4e151ad1ae2542a}
+      \strng{bibnamehash}{60acac520aeb553cc4e151ad1ae2542a}
+      \strng{authorbibnamehash}{60acac520aeb553cc4e151ad1ae2542a}
+      \strng{authornamehash}{60acac520aeb553cc4e151ad1ae2542a}
+      \strng{authorfullhash}{60acac520aeb553cc4e151ad1ae2542a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sn2 Reactions in the Gas Phase. Temperature Dependence of the Rate Constants and Energies of the Transition States.}
+      \field{year}{1983}
+    \endentry
+    \entry{cc}{article}{}
+      \name{author}{1}{}{%
+        {{hash=aad2806ec9f9627e4072ecb0f72d6d3d}{%
+           family={Mourik;\bibnamedelimb Thom\bibnamedelimb H.\bibnamedelimi Dunning\bibnamedelima Jr.},
+           familyi={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Angela\bibnamedelimb K.\bibnamedelimi Wilson;\bibnamedelima Tanja},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim T\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{aad2806ec9f9627e4072ecb0f72d6d3d}
+      \strng{fullhash}{aad2806ec9f9627e4072ecb0f72d6d3d}
+      \strng{bibnamehash}{aad2806ec9f9627e4072ecb0f72d6d3d}
+      \strng{authorbibnamehash}{aad2806ec9f9627e4072ecb0f72d6d3d}
+      \strng{authornamehash}{aad2806ec9f9627e4072ecb0f72d6d3d}
+      \strng{authorfullhash}{aad2806ec9f9627e4072ecb0f72d6d3d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gaussian basis sets for use in correlated molecular calculations. VI. Sextuple zeta correlation consistent basis sets for boron through neon}
+      \field{year}{1996}
+    \endentry
+    \entry{sto}{article}{}
+      \name{author}{2}{}{%
+        {{hash=926be040dc6f1f377d809e2036a2f1f1}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={W.\bibnamedelimi J.\bibnamedelimi Hehre;\bibnamedelimb R.\bibnamedelimi F.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=a49269095f3ff1435e603bc8ef63983b}{%
+           family={Pople},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {J. Chem. Phys. 51}%
+      }
+      \strng{namehash}{cdb5cb76e0309a3455b40e56772d436a}
+      \strng{fullhash}{cdb5cb76e0309a3455b40e56772d436a}
+      \strng{bibnamehash}{cdb5cb76e0309a3455b40e56772d436a}
+      \strng{authorbibnamehash}{cdb5cb76e0309a3455b40e56772d436a}
+      \strng{authornamehash}{cdb5cb76e0309a3455b40e56772d436a}
+      \strng{authorfullhash}{cdb5cb76e0309a3455b40e56772d436a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Self-Consistent Molecular-Orbital Methods. I. Use of Gaussian Expansions of Slater-Type Atomic Orbitals}
+      \field{year}{1969}
+      \verb{doi}
+      \verb https://doi.org/10.1063/1.1672392
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

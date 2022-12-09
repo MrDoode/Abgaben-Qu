@@ -1,0 +1,22 @@
+%chk=C:\Users\chemistry\Documents\Gruppe H\input.chk
+# opt=(calcall,ts,modredundant) freq hf/sto-3g geom=connectivity
+
+Title Card Required
+
+-1 1
+ C                  0.70512100    0.00000000   -0.00019000
+ H                  0.76687800   -0.91660600   -0.52933300
+ H                  0.76687800    0.91659500   -0.52935200
+ H                  0.76705200    0.00001100    1.05819900
+ Br                -1.69481900    0.00000000    0.00002400
+ Cl                 3.10512600    0.00000000    0.00004600
+
+ 1 2 1.0 3 1.0 4 1.0
+ 2
+ 3
+ 4
+ 5
+ 6
+
+B 1 6 S 15 -0.1
+

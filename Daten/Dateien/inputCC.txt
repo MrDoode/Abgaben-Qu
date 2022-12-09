@@ -1,0 +1,30 @@
+Filename = C:\Users\chemistry\Documents\Gruppe H\inputCC.log
+
+Overview Tab Data Section:
+Title Card Required (Scan point 12)
+C:\Users\chemistry\Documents\Gruppe H\inputCC.log
+File Type = .log
+Calculation Type = SCAN
+Calculation Method = RHF
+Formula = CH3ClBr
+Basis Set = CC-pVDZ
+Charge = -1
+Spin = Singlet
+Solvation = None
+E(RHF) = -3071.5622 Hartree
+RMS Gradient Norm = 0.000568879 Hartree/Bohr
+Imaginary Freq = 
+Dipole Moment =  Debye
+Point Group = C1
+Molecular Mass = 128.91067 amu
+Job cpu time:       0 days  0 hours  5 minutes 27.0 seconds.
+
+Scan Tab Data Section:
+Scan point = 12
+Step number = 
+Scan coordinate = 2.011928
+Maximum force = 1.6e-05 Converged
+RMS force = 6e-06 Converged
+Maximum displacement = 0.001264 Converged
+RMS displacement = 0.000413 Converged
+Predicted energy change = -1.623921e-08 Hartree

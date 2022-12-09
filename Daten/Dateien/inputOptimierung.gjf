@@ -1,0 +1,22 @@
+%chk=C:\Users\chemistry\Documents\Gruppe H\inputOptimierung.chk
+# opt=modredundant freq hf/sto-3g geom=connectivity
+
+Title Card Required
+
+-1 1
+ C                  0.00000000    0.33936300    0.00000000
+ H                  0.51385000    0.63408200    0.88950400
+ H                  0.51385000    0.63408200   -0.88950400
+ H                 -1.02681200    0.63570300    0.00000000
+ Br                -0.00229100   -1.73454500    0.00000000
+ Cl                 0.00466400    3.33935500    0.00000000
+
+ 1 2 1.0 3 1.0 4 1.0
+ 2
+ 3
+ 4
+ 5
+ 6
+
+B 1 6 S 15 -0.1
+
